@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import wolframalpha
-client = wolframalpha.Client("LTY33T-TYX684T6Y4")
+client = wolframalpha.Client("")
 
 import speech_recognition as sr
 import wikipedia
